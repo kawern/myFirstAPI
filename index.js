@@ -22,6 +22,6 @@ app.use(formidable())
 //set up app routes
 app.use("/api/v1", animals, food, acc)
 
-app.listen(4000, function () {
+app.listen(process.env.PORT || 4000, function () { 
     console.log("now listening for requests on port 4000");
 })
