@@ -4,10 +4,10 @@ First try at making an API.
 
 ## Functions ##
 
-GET all data
-GET data for one item
-PATCH an item
-DELETE an item
-CREATE an item
+GET all data<br>
+GET data for one item<br>
+PATCH an item<br>
+DELETE an item<br>
+CREATE an item<br>
 
 ...
